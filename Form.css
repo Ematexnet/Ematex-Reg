@@ -1,0 +1,34 @@
+h1 {
+    text-align: center;
+    background-color: #5D001E;
+    color: #E3E2DF;
+    font-size: 40px;
+    margin-bottom: 40px;
+    margin-top: 40px;
+}
+body {
+    background-color: #da7f95;
+    margin-left: 20px;
+    font-size: 20px;
+}
+#next {
+font-size:25px;
+border-radius: 10%;
+}
+input {
+    height: 23px;
+}{
+#select {
+    height: 25px;
+}
+h1 {
+    text-align: center;
+    background-color: #5D001E;
+    color: #E3E2DF;
+    font-size: 40px;
+    margin-bottom: 40px;
+    margin-top: 40px;   
+}
+#select1 {
+    height: 25;
+}
